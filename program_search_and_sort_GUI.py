@@ -1,10 +1,3 @@
-# Name: Farnoosh Memari
-# Date: 10/10/2024
-# CRN: 10235
-# Class name: CIS 226 - Advanced Python Programming
-# Estimated time: 6 hours
-
-
 import tkinter as tk
 from tkinter import messagebox
 
