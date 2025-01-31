@@ -22,9 +22,3 @@ This project is a **Graphical User Interface (GUI) application** that allows use
    - Displays the **sorted list**, **number of swaps**, and **search results** in a pop-up message box.
 
 ---
-
-## **Installation & Setup**
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/yourusername/gui-search-sort.git
-cd gui-search-sort
